@@ -1,0 +1,23 @@
+groups:
+    cpu:
+        - fpi
+        - teamrankings
+        - numberfire
+        - sagarin
+        - collegefootballpoll
+    human:
+        - rittenberg
+        - sportsonearth
+        - rexrode
+        - yahoopercents
+        - boozell
+    vegas:
+        - pclines
+    panel:
+        - collegefootballnews
+group_weights:
+    cpu: .3
+    human: .15
+    panel: .15
+    vegas: .4
+

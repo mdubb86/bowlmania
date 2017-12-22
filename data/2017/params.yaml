@@ -1,0 +1,26 @@
+groups:
+    cpu:
+        - sagarin
+        - fpi             # football power index (ESPN)
+        - cfp             # collegefootballpoll.com
+    human:
+        - rittenberg      # ESPN
+        - joe_tansey      # bleacher report
+        - andy_staples    # SI
+        - bruce_feldman   # SI
+        - joan_niesen     # SI
+        - chris_johnson   # SI
+        - eric_single     # SI
+        - molly_geary     # SI
+        - scooby_axson    # SI
+        - joe_boozell     # ncaa.com
+    vegas:
+        - sportsbookag    # sportsbook.ag
+        - blchrpt_lines   # bleacher report (tansey lines)
+        - cfp_lines       # college football poll lines
+group_weights:
+    cpu: .25
+    human: .25
+    vegas: .5
+
+

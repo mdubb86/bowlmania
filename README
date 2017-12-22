@@ -1,0 +1,6 @@
+Create directory under data for year, populate bowls and params.yaml
+Use create-points and create-scores to create different entries
+
+Run predict.py to calculate predictions
+
+Add winners to bowl games and run results.py to see performance during bowl season

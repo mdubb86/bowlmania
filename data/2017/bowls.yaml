@@ -1,0 +1,173 @@
+-
+  name:  'Celebration'
+  team1: 'North Carolina A&T'
+  team2: 'Grambling'
+  winner: 1
+-
+  name:  'New Orleans'
+  team1: 'Troy'
+  team2: 'North Texas'
+  winner: 1
+-
+  name:  'Cure'
+  team1: 'Western Kentucky'
+  team2: 'Georgia State'
+  winner: 2
+-
+  name:  'Las Vegas'
+  team1: 'Oregon'
+  team2: 'Boise State'
+  winner: 2
+-
+  name:  'New Mexico'
+  team1: 'Marshall'
+  team2: 'Colorado State'
+  winner: 1
+-
+  name:  'Camellia'
+  team1: 'Middle Tennessee'
+  team2: 'Arkansas State'
+  winner: 1
+-
+  name:  'Boca Raton'
+  team1: 'Florida Atlantic'
+  team2: 'Akron'
+  winner: 1
+-
+  name:  'Frisco'
+  team1: 'SMU'
+  team2: 'Louisiana Tech'
+  winner: 2
+-
+  name:  'Gasparilla'
+  team1: 'Temple'
+  team2: 'Florida International'
+  winner: 1
+-
+  name:  'Bahamas'
+  team1: 'UAB'
+  team2: 'Ohio'
+-
+  name:  'Potato'
+  team1: 'Wyoming'
+  team2: 'Central Michigan'
+-
+  name:  'Birmingham'
+  team1: 'Texas Tech'
+  team2: 'USF'
+-
+  name:  'Armed Forces'
+  team1: 'San Diego State'
+  team2: 'Army'
+-
+  name:  'Dollar General'
+  team1: 'Toledo'
+  team2: 'Appalachian State'
+-
+  name:  'Hawaii'
+  team1: 'Fresno State'
+  team2: 'Houston'
+-
+  name:  'Heart of Dallas'
+  team1: 'West Virginia'
+  team2: 'Utah'
+-
+  name:  'Quick Lane'
+  team1: 'Duke'
+  team2: 'Northern Illinois'
+-
+  name:  'Cactus'
+  team1: 'Kansas State'
+  team2: 'UCLA'
+-
+  name:  'Independence'
+  team1: 'Southern Miss'
+  team2: 'Florida State'
+-
+  name:  'Pinstripe'
+  team1: 'Iowa'
+  team2: 'Boston College'
+-
+  name:  'Foster Farms'
+  team1: 'Arizona'
+  team2: 'Purdue'
+-
+  name:  'Texas'
+  team1: 'Texas'
+  team2: 'Missouri'
+-
+  name:  'Military'
+  team1: 'Virginia'
+  team2: 'Navy'
+-
+  name:  'Camping World'
+  team1: 'Virginia Tech'
+  team2: 'Oklahoma State'
+-
+  name:  'Alamo'
+  team1: 'Stanford'
+  team2: 'TCU'
+-
+  name:  'Holiday'
+  team1: 'Washington State'
+  team2: 'Michigan State'
+-
+  name:  'Belk'
+  team1: 'Wake Forest'
+  team2: 'Texas A&M'
+-
+  name:  'Sun'
+  team1: 'NC State'
+  team2: 'Arizona State'
+-
+  name:  'Music City'
+  team1: 'Kentucky'
+  team2: 'Northwestern'
+-
+  name:  'Arizona'
+  team1: 'New Mexico State'
+  team2: 'Utah State'
+-
+  name:  'Cotton'
+  team1: 'USC'
+  team2: 'Ohio State'
+-
+  name:  'TaxSlayer'
+  team1: 'Louisville'
+  team2: 'Mississippi State'
+-
+  name:  'Liberty'
+  team1: 'Iowa State'
+  team2: 'Memphis'
+-
+  name:  'Fiesta'
+  team1: 'Washington'
+  team2: 'Penn State'
+-
+  name:  'Orange'
+  team1: 'Wisconsin'
+  team2: 'Miami'
+-
+  name:  'Outback'
+  team1: 'Michigan'
+  team2: 'South Carolina'
+-
+  name:  'Peach'
+  team1: 'UCF'
+  team2: 'Auburn'
+-
+  name:  'Citrus'
+  team1: 'Notre Dame'
+  team2: 'LSU'
+-
+  name:  'Rose'
+  team1: 'Georgia'
+  team2: 'Oklahoma'
+-
+  name:  'Sugar'
+  team1: 'Alabama'
+  team2: 'Clemson'
+-
+  name:  'National Championship'
+  team1: 'Clemson'
+  team2: 'Oklahoma'
