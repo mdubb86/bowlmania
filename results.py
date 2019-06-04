@@ -3,6 +3,7 @@ import json
 import os
 import sys
 from tabulate import tabulate
+import argparse
 
 class bcolors:
     HEADER = '\033[95m'
@@ -44,7 +45,12 @@ def points_to_picks(points):
         confidence -= 1
     return picks
 
-base_dir = './data/2017'
+parser = argparse.ArgumentParser()
+parser.add_argument('year', help='year')
+args = parser.parse_args()
+
+
+base_dir = './data/' + args.year
 bowls = yaml.load(open(os.path.join(base_dir, 'bowls.yaml')))
 params = yaml.load(open(os.path.join(base_dir, 'params.yaml')))
 

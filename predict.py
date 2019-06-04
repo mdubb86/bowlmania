@@ -44,7 +44,26 @@ def points_to_picks(points):
         confidence -= 1
     return picks
 
-base_dir = './data/2017'
+# Backfills skipped picks with lowest values so the entry is complete
+def backfill(picks):
+    print('Before:', sum(picks), picks)
+    val = 1
+    for idx, pick in enumerate(picks):
+        if pick is None:
+            picks[idx] = val
+            val += 1
+
+    print('After:', sum(picks), picks)
+    return picks
+
+def sum(picks):
+    s = 0
+    for p in picks:
+        if p is not None:
+            s += abs(p)
+    return s
+
+base_dir = './data/2018'
 bowls = yaml.load(open(os.path.join(base_dir, 'bowls.yaml')))
 params = yaml.load(open(os.path.join(base_dir, 'params.yaml')))
 
@@ -55,10 +74,13 @@ groups = list(params['groups'].keys())
 entry_map = {}
 entries = []
 
-# Order the entries so that all members are next to the group
+# Order the entries so that all members are sorted by group
 for group in groups:
     for name in params['groups'][group]:
         entries.append(name)
+
+# Put groups at the end
+for group in groups:
     entries.append(group)
 
 # Determine picks for all .score files
@@ -70,11 +92,11 @@ for f in score_files:
 
 # Determine picks for all .points files
 for f in points_files:
+    print('Loading', f)
     points_data = json.load(open(os.path.join(base_dir, f + '.points')))
-    print(points_data)
     points = [None if v[0] == 0 else v[1] if v[0] == 1 else -v[1] for v in points_data]
     picks = points_to_picks(points)
-    print(picks)
+    picks = backfill(picks)
     entry_map[f] = picks
 
 # Determine picks for all groups

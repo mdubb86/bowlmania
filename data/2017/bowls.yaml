@@ -47,127 +47,159 @@
   name:  'Bahamas'
   team1: 'UAB'
   team2: 'Ohio'
+  winner: 2
 -
   name:  'Potato'
   team1: 'Wyoming'
   team2: 'Central Michigan'
+  winner: 1
 -
   name:  'Birmingham'
   team1: 'Texas Tech'
   team2: 'USF'
+  winner: 2
 -
   name:  'Armed Forces'
   team1: 'San Diego State'
   team2: 'Army'
+  winner: 2
 -
   name:  'Dollar General'
   team1: 'Toledo'
   team2: 'Appalachian State'
+  winner: 2
 -
   name:  'Hawaii'
   team1: 'Fresno State'
   team2: 'Houston'
+  winner: 1
 -
   name:  'Heart of Dallas'
   team1: 'West Virginia'
   team2: 'Utah'
+  winner: 2
 -
   name:  'Quick Lane'
   team1: 'Duke'
   team2: 'Northern Illinois'
+  winner: 1
 -
   name:  'Cactus'
   team1: 'Kansas State'
   team2: 'UCLA'
+  winner: 1
 -
   name:  'Independence'
   team1: 'Southern Miss'
   team2: 'Florida State'
+  winner: 2
 -
   name:  'Pinstripe'
   team1: 'Iowa'
   team2: 'Boston College'
+  winner: 1
 -
   name:  'Foster Farms'
   team1: 'Arizona'
   team2: 'Purdue'
+  winner: 2
 -
   name:  'Texas'
   team1: 'Texas'
   team2: 'Missouri'
+  winner: 1
 -
   name:  'Military'
   team1: 'Virginia'
   team2: 'Navy'
+  winner: 2
 -
   name:  'Camping World'
   team1: 'Virginia Tech'
   team2: 'Oklahoma State'
+  winner: 2
 -
   name:  'Alamo'
   team1: 'Stanford'
   team2: 'TCU'
+  winner: 2
 -
   name:  'Holiday'
   team1: 'Washington State'
   team2: 'Michigan State'
+  winner: 2
 -
   name:  'Belk'
   team1: 'Wake Forest'
   team2: 'Texas A&M'
+  winner: 1
 -
   name:  'Sun'
   team1: 'NC State'
   team2: 'Arizona State'
+  winner: 1
 -
   name:  'Music City'
   team1: 'Kentucky'
   team2: 'Northwestern'
+  winner: 2
 -
   name:  'Arizona'
   team1: 'New Mexico State'
   team2: 'Utah State'
+  winner: 1
 -
   name:  'Cotton'
   team1: 'USC'
   team2: 'Ohio State'
+  winner: 2
 -
   name:  'TaxSlayer'
   team1: 'Louisville'
   team2: 'Mississippi State'
+  winner: 2
 -
   name:  'Liberty'
   team1: 'Iowa State'
   team2: 'Memphis'
+  winner: 1
 -
   name:  'Fiesta'
   team1: 'Washington'
   team2: 'Penn State'
+  winner: 2
 -
   name:  'Orange'
   team1: 'Wisconsin'
   team2: 'Miami'
+  winner: 1
 -
   name:  'Outback'
   team1: 'Michigan'
   team2: 'South Carolina'
+  winner: 2
 -
   name:  'Peach'
   team1: 'UCF'
   team2: 'Auburn'
+  winner: 1
 -
   name:  'Citrus'
   team1: 'Notre Dame'
   team2: 'LSU'
+  winner: 1
 -
   name:  'Rose'
   team1: 'Georgia'
   team2: 'Oklahoma'
+  winner: 1
 -
   name:  'Sugar'
   team1: 'Alabama'
   team2: 'Clemson'
+  winner: 1
 -
   name:  'National Championship'
-  team1: 'Clemson'
-  team2: 'Oklahoma'
+  team1: 'Alabama'
+  team2: 'Clemson'
+  winner: 1
