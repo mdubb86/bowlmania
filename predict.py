@@ -63,7 +63,7 @@ def sum(picks):
             s += abs(p)
     return s
 
-base_dir = './data/2018'
+base_dir = './data/2019'
 bowls = yaml.load(open(os.path.join(base_dir, 'bowls.yaml')))
 params = yaml.load(open(os.path.join(base_dir, 'params.yaml')))
 

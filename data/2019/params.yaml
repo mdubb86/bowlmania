@@ -1,0 +1,15 @@
+groups:
+    cpu:
+        - sagarin         # Sagarin Ratings
+        - fpi             # Football Power Index (ESPN)
+        - cfp             # collegefootballpoll.com
+        - team_rankings   # Team Rankings (ESPN PickCenter)
+        - number_fire     # Number Fire (ESPN PickCenter)
+    experts:
+      - si                # Sports Illustrated 
+    vegas:
+        - caesars         # Caesars Sportsbook Lines
+group_weights:
+    cpu: 0.4
+    vegas: 0.4
+    experts: 0.2

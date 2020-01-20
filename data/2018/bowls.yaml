@@ -1,0 +1,206 @@
+-
+  name:  'Celebration'
+  team1: 'North Carolina A&T'
+  team2: 'Alcorn State'
+  winner: 1
+-
+  name:  'New Mexico'
+  team1: 'North Texas'
+  team2: 'Utah State'
+  winner: 2
+-
+  name:  'Cure'
+  team1: 'Tulane'
+  team2: 'Louisiana'
+  winner: 1
+-
+  name:  'Las Vegas'
+  team1: 'Fresno State'
+  team2: 'Arizona State'
+  winner: 1
+-
+  name:  'Camellia'
+  team1: 'Georgia Southern'
+  team2: 'Eastern Michigan'
+  winner: 1
+-
+  name:  'New Orleans'
+  team1: 'Middle Tennessee'
+  team2: 'Appalachian State'
+  winner: 2
+-
+  name:  'Boca Raton'
+  team1: 'UAB'
+  team2: 'Northern Illinois'
+  winner: 1
+-
+  name:  'Frisco'
+  team1: 'San Diego State'
+  team2: 'Ohio'
+  winner: 2
+-
+  name:  'Gasparilla'
+  team1: 'Marshall'
+  team2: 'South Florida'
+  winner: 1
+-
+  name:  'Bahamas'
+  team1: 'FIU'
+  team2: 'Toledo'
+  winner: 1
+-
+  name:  'Potato'
+  team1: 'Western Michigan'
+  team2: 'BYU'
+  winner: 2
+-
+  name:  'Birmingham'
+  team1: 'Memphis'
+  team2: 'Wake Forest'
+  winner: 2
+-
+  name:  'Armed Forces'
+  team1: 'Houston'
+  team2: 'Army'
+  winner: 2
+-
+  name:  'Dollar General'
+  team1: 'Buffalo'
+  team2: 'Troy'
+  winner: 2
+-
+  name:  'Hawaii'
+  team1: 'Louisiana Tech'
+  team2: 'Hawaii'
+  winner: 1
+-
+  name:  'First Responder'
+  team1: 'Boston College'
+  team2: 'Boise State'
+-
+  name:  'Quick Lane'
+  team1: 'Minnesota'
+  team2: 'Georgia Tech'
+  winner: 1
+-
+  name:  'Cheez-It'
+  team1: 'California'
+  team2: 'TCU'
+  winner: 2
+-
+  name:  'Independence'
+  team1: 'Temple'
+  team2: 'Duke'
+  winner: 2
+-
+  name:  'Pinstripe'
+  team1: 'Miami'
+  team2: 'Wisconsin'
+  winner: 2
+-
+  name:  'Texas'
+  team1: 'Baylor'
+  team2: 'Vanderbilt'
+  winner: 1
+-
+  name:  'Music City'
+  team1: 'Purdue'
+  team2: 'Auburn'
+  winner: 2
+-
+  name:  'Camping World'
+  team1: 'West Virginia'
+  team2: 'Syracuse'
+  winner: 2
+-
+  name:  'Alamo'
+  team1: 'Iowa State'
+  team2: 'Washington State'
+  winner: 2
+-
+  name:  'Peach'
+  team1: 'Florida'
+  team2: 'Michigan'
+  winner: 2
+-
+  name:  'Belk'
+  team1: 'South Carolina'
+  team2: 'Virginia'
+  winner: 2
+-
+  name:  'Arizona'
+  team1: 'Arkansas State'
+  team2: 'Nevada'
+  winner: 2
+-
+  name:  'Cotton'
+  team1: 'Clemson'
+  team2: 'Notre Dame'
+  winner: 1
+-
+  name:  'Orange'
+  team1: 'Alabama'
+  team2: 'Oklahoma'
+  winner: 2
+-
+  name:  'Military'
+  team1: 'Cincinnati'
+  team2: 'Virginia Tech'
+  winner: 1
+-
+  name:  'Sun'
+  team1: 'Stanford'
+  team2: 'Pittsburgh'
+  winner: 1
+-
+  name:  'Redbox'
+  team1: 'Michigan State'
+  team2: 'Oregon'
+  winner: 2
+-
+  name:  'Liberty'
+  team1: 'Missouri'
+  team2: 'Oklahoma State'
+  winner: 2
+-
+  name:  'Holiday'
+  team1: 'Northwestern'
+  team2: 'Utah'
+  winner: 2
+-
+  name:  'Gator'
+  team1: 'NC State'
+  team2: 'Texas A&M'
+  winner: 2
+-
+  name:  'Outback'
+  team1: 'Mississippi State'
+  team2: 'Iowa'
+  winner: 2
+-
+  name:  'Citrus'
+  team1: 'Kentucky'
+  team2: 'Penn State'
+  winner: 1
+-
+  name:  'Fiesta'
+  team1: 'LSU'
+  team2: 'UCF'
+  winner: 1
+-
+  name:  'Rose'
+  team1: 'Washington'
+  team2: 'Ohio State'
+  winner: 2
+-
+  name:  'Sugar'
+  team1: 'Texas'
+  team2: 'Georgia'
+  winner: 1
+-
+  name:  'National Championship'
+  team1: 'Team 1'
+  team2: 'Team 2'
+  winner: 2
+
+

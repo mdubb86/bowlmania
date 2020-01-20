@@ -178,7 +178,7 @@ if __name__ == '__main__':
     parser.add_argument('name', help='name')
     args = parser.parse_args()
 
-    base_dir = './data/2018'
+    base_dir = './data/2019'
 
     bowls = yaml.load(open(os.path.join(base_dir, 'bowls.yaml')))
     data_file = os.path.join(base_dir, args.name + '.scores')

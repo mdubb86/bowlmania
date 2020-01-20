@@ -1,0 +1,31 @@
+groups:
+    cpu:
+        - sagarin         # Sagarin Ratings
+        - fpi             # football power index (ESPN)
+        - cfp             # collegefootballpoll.com
+        - team_rankings   # Team Rankings (ESPN PickCenter)
+        - number_fire     # Number Fire (ESPN PickCenter)
+    experts:              # Humans that have performed well
+      - andy_staples      # SI
+      - mark_schlabach    # ESPN
+    human:                # Humans that haven't performed well or unknown
+      - joan_niesen       # SI
+      - ross_dellenger    # SI
+      - laken_litman      # SI
+      - eric_single       # SI
+      - molly_geary       # SI
+      - scooby_axson      # SI
+      - max_meyer         # SI
+      - bill_bender       # Sporting News
+    vegas:
+        - tr_lines        # Team rankings lines
+        - odds_shark      # Odds Shark
+group_weights:
+    cpu: 0.4
+    vegas: 0.4
+    experts: 0.1
+    human: 0.1
+
+
+
+

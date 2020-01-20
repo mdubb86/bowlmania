@@ -145,7 +145,7 @@ for name in entries:
                 won += abs(pick)
             else:
                 lost += abs(pick)
-    row += [won, 903 - won - lost]
+    row += [won, 861 - won - lost]
     table_data.append(row)
 
 table_data.sort(key=lambda x: -abs(x[1]))
